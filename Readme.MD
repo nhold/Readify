@@ -22,17 +22,17 @@ Just open in Visual Studio. Select either SFMLApp or ConsoleApp as the startup a
 
 The controls for the 2D version:
 
-Right Click: Initial Place
-Left Click: Place
-Left Arrow: Rotate Left
-Right Arrow: Rotate Right
-Up Arrow: Move
+* Right Click: Initial Place
+* Left Click: Place
+* Left Arrow: Rotate Left
+* Right Arrow: Rotate Right
+* Up Arrow: Move
 
 The controls for the Console version:
 
-Place 0,0,North
-Place 0,1
-Right
-Move
-Report
-Quit
+* Place 0,0,North
+* Place 0,1
+* Right
+* Move
+* Report
+* Quit

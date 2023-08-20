@@ -6,7 +6,7 @@ Input\Output and Business Logic should be seperate!
 
 So the quick version is:
 
-* TRS.Library(.Net Standard) - Contains the ToyRobot and Map logic that contains how the ToyRobot does it's job with the map
+* TRS.Library(.Net Standard can you guess why?) - Contains the ToyRobot and Map logic that contains how the ToyRobot does it's job with the map
 * TRS.ConsoleApp(.Net Core) - Contains the I\O for the console, takes input read from the user, translates it to an action on the toyrobot or on the simulation itself (Quit, Report)
 * TRS.SFMLApp(.Net Framework) - Contains the I\O for a 2D sfml based version, translates mouse and keyboard into actions for the robot. Seperation of input and output made this simple.
 
